@@ -6,7 +6,7 @@ import { cn } from "@/lib/utils";
 export default function Experience() {
   const workExps = [
     {
-      title: "EXPERT LECTURER, RAJIV GANDHI GOVT. POLYTECHNIC, NARWANA",
+      title: "LECTURER, RAJIV GANDHI GOVT. POLYTECHNIC, NARWANA",
       duration: "Sept 2024 - Present",
       location: "Narwana Jind, Haryana",
       description: [
