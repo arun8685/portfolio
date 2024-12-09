@@ -10,10 +10,10 @@ export default function Footer() {
   };
 
   const resumeLinks = {
-    "Data Scientist": "https://github.com/arun3310/portfolio/blob/main/data-scientist-resume.pdf",
-    "Data Analyst": "https://github.com/arun3310/portfolio/blob/main/data-scientist-resume.pdf",
-    "Software Engineer": "https://github.com/arun3310arun3310/portfolio/blob/main/software-engineer-resume.pdf",
-    "Web Developer": "https://github.com/arun3310arun3310/portfolio/blob/main/software-engineer-resume.pdf",
+    "Data Scientist": "https://drive.google.com/uc?export=download&id=1Mgai9S-pWmjExLRx7jPOn7VO9aH1MTTv",
+    "Data Analyst": "https://drive.google.com/uc?export=download&id=1Mgai9S-pWmjExLRx7jPOn7VO9aH1MTTv",
+    "Software Engineer": "https://drive.google.com/uc?export=download&id=1xb0wP8ppTuWtCV5U27mIeRrpfwbgPSB_",
+    "Web Developer": "https://drive.google.com/uc?export=download&id=1xb0wP8ppTuWtCV5U27mIeRrpfwbgPSB_",
     // Add other roles and their respective resume links here
   };
 
