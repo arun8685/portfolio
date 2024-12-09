@@ -32,7 +32,7 @@ export default function Footer() {
             <p>Email: <a href={`mailto:namanbansal2016@gmail.com`} className="text-blue-500">arunsharma572arun@gmail.com</a></p>
             <p>Phone: <a href={`tel:+917062397281`} className="text-blue-500">+91 9306013310</a></p>
             <p>Home Town: Jind, Haryana</p>
-            <p>Website: <a href="https://portfolio.namanbansal02.me" target="_blank" rel="noopener noreferrer" className="text-blue-500">www.arunsharma.me</a></p>
+            <p>Website: <a href="https://www.linkedin.com/in/arun3310/" target="_blank" rel="noopener noreferrer" className="text-blue-500">www.arunsharma.me</a></p>
           </div>
         </div>
 
@@ -64,7 +64,7 @@ export default function Footer() {
       </div>
 
       <div className="border-t mt-10 py-8 px-4 space-y-4 text-sm text-center">
-        Copyright © 2024 - All Rights Reserved - <a href="https://portfolio.namanbansal02.me" className="text-blue-500">www.arunsharma.me</a>
+        Copyright © 2024 - All Rights Reserved - <a href="https://www.linkedin.com/in/arun3310/" className="text-blue-500">www.arunsharma.me</a>
       </div>
     </div>
   );
