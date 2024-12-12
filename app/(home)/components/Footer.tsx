@@ -10,10 +10,10 @@ export default function Footer() {
   };
 
   const resumeLinks = {
-    "Data Scientist": "https://drive.google.com/uc?export=download&id=1Mgai9S-pWmjExLRx7jPOn7VO9aH1MTTv",
-    "Data Analyst": "https://drive.google.com/uc?export=download&id=1Mgai9S-pWmjExLRx7jPOn7VO9aH1MTTv",
-    "Software Engineer": "https://drive.google.com/uc?export=download&id=1xb0wP8ppTuWtCV5U27mIeRrpfwbgPSB_",
-    "Web Developer": "https://drive.google.com/uc?export=download&id=1xb0wP8ppTuWtCV5U27mIeRrpfwbgPSB_",
+    "Data Scientist": "https://drive.google.com/uc?export=download&id=1DDLFoKQqqwjWoipe4bW-pZBAIeCNt3j8",
+    "Data Analyst": "https://drive.google.com/uc?export=download&id=1DDLFoKQqqwjWoipe4bW-pZBAIeCNt3j8",
+    "Software Engineer": "https://drive.google.com/uc?export=download&id=1bqEUBfNVLI6mweg6DMTOyaYQt--qUr0H",
+    "Web Developer": "https://drive.google.com/uc?export=download&id=1bqEUBfNVLI6mweg6DMTOyaYQt--qUr0H",
     // Add other roles and their respective resume links here
   };
 
