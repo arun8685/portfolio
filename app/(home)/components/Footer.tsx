@@ -29,8 +29,8 @@ export default function Footer() {
           {/* Contact Details */}
           <div className="space-y-4 text-sm">
             <p>Data Analyst</p>
-            <p>Email: <a href={`mailto:namanbansal2016@gmail.com`} className="text-blue-500">arunsharma572arun@gmail.com</a></p>
-            <p>Phone: <a href={`tel:+917062397281`} className="text-blue-500">+91 9306013310</a></p>
+            <p>Email: <a href={`mailto:arunsharma572arun@gmail.com`} className="text-blue-500">arunsharma572arun@gmail.com</a></p>
+            <p>Phone: <a href={`tel:+919306013310`} className="text-blue-500">+91 9306013310</a></p>
             <p>Home Town: Jind, Haryana</p>
             <p>Website: <a href="https://www.linkedin.com/in/arun3310/" target="_blank" rel="noopener noreferrer" className="text-blue-500">www.arunsharma.me</a></p>
           </div>
@@ -64,7 +64,7 @@ export default function Footer() {
       </div>
 
       <div className="border-t mt-10 py-8 px-4 space-y-4 text-sm text-center">
-        Copyright © 2024 - All Rights Reserved - <a href="https://www.linkedin.com/in/arun3310/" className="text-blue-500">www.arunsharma.me</a>
+        Copyright © 2025 - All Rights Reserved - <a href="https://www.linkedin.com/in/arun3310/" className="text-blue-500">www.arunsharma.me</a>
       </div>
     </div>
   );
