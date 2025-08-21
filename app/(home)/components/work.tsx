@@ -7,7 +7,7 @@ export default function Experience() {
   const workExps = [
     {
       title: "LECTURER, RAJIV GANDHI GOVT. POLYTECHNIC, NARWANA",
-      duration: "Sept 2024 - Present",
+      duration: "Sept 2024 - May 2025",
       location: "Narwana Jind, Haryana",
       description: [
         "Delivered in-depth lectures on computer engineering and data science topics, fostering a strong theoretical and practical foundation among students",
